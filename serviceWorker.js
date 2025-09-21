@@ -7,8 +7,6 @@ const assets = [
   "./assets/js/main.js",
   "./assets/js/swiper-bundle.min.js",
 
-  "./assets/pdf/cv-en_fa-seyed_mohammad_reza_hosseini.pdf",
-
   "./assets/img/blob.svg",
   "./assets/img/smrh.jpg",
   "./assets/img/cozy_gaming_small.png",
