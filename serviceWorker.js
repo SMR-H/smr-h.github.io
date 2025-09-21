@@ -10,9 +10,9 @@ const assets = [
   "./assets/pdf/cv-en_fa-seyed_mohammad_reza_hosseini.pdf",
 
   "./assets/img/blob.svg",
-  "./assets/img/smrh-3.png",
-  "./assets/img/cozy-gaming.png",
-  "./assets/img/travel-pic3.png",
+  "./assets/img/smrh.jpg",
+  "./assets/img/cozy_gaming_small.png",
+  "./assets/img/contact_me_small_sharp.png",
 
   "./assets/img/skills/python.svg",
   "./assets/img/skills/django-bright.svg",
